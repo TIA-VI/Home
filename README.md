@@ -1,6 +1,7 @@
 # home
 Welcome!
 https://tia-vi.github.io/Home/home.html
+
 (1) rm -rf .git/
 
 (2) git init
