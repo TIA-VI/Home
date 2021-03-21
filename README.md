@@ -1,3 +1,3 @@
 # home
 Welcome!
-https://TIA-VI.github.io/Home
+https://tia-vi.github.io/Home/home.html
